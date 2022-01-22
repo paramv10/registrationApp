@@ -1,4 +1,4 @@
-## DevOps Project for deploying Java Project on container 
+## DevOps Project for deploying Java code on container 
 
 
 
